@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen1_GarciaSergio</string>
+    <string name="titulo">Calculadora de compatibilidad</string>
+    <string name="tuNombre">Tu nombre</string>
+    <string name="otroNombre">El nombre de tu crush</string>
+    <string name="btnTexto">Calcular</string>
+    <string name="opcionBaja">No hay manera</string>
+    <string name="opcionMedia">Buena suerte</string>
+    <string name="opcionMediaAlta">Invatala a salir</string>
+    <string name="opcionAlta">Huele a boda</string>
+</resources>
